@@ -1,5 +1,5 @@
 # SQL5
-a virtual view and physical snapshot of data.
+A virtual view and physical snapshot of data.
 
 ## Описание:
 - Проект посвящён работе с виртуальными таблицами (VIEW) и материализованными представлениями (MATERIALIZED VIEW) в PostgreSQL. Основной фокус — абстракция данных, повторное использование запросов и управление актуальностью данных.
